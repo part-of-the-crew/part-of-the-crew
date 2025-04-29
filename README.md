@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nick
 - 👀 I’m interested in C++ and embedded development.
-- 🌱 I’m currently learning C++ for backend.
+- 🌱 I’m currently learning C++ for backend and Qt.
 - ⚡ Fun fact: currently looking for a job.
 
 <!---
